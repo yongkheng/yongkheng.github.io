@@ -1,0 +1,5 @@
+https://www.gutenberg.org/cache/epub/11/pg11.txt
+https://raw.githubusercontent.com/yongkheng/datasets/main/uv.mp4
+https://raw.githubusercontent.com/yongkheng/datasets/main/gambier_street.jpg
+https://raw.githubusercontent.com/yongkheng/datasets/main/moment_musical.mp3
+https://raw.githubusercontent.com/yongkheng/datasets/main/document-a4.pdf
